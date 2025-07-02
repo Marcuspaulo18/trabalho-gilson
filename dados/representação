@@ -1,0 +1,14 @@
+cruzamentos
+id,nome
+1,Praça Central
+2,Av. das Flores
+3,Rua do Comércio
+4,Terminal Rodoviário
+5,Parque Municipal
+ruas
+origem,destino,nome,distancia_km
+1,2,Rua A,0.5
+2,3,Rua B,0.7
+3,4,Rua C,1.0
+4,5,Rua D,0.8
+5,1,Rua E,0.6
